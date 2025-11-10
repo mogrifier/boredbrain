@@ -1,0 +1,16 @@
+{
+  "slug": "boredbrain",
+  "name": "boredbrain",
+  "version": "2.0.0",
+  "license": "GPL-3.0-or-later",
+  "brand": "boredbrain",
+  "author": "Erich Izdepski",
+  "authorEmail": "mogrifier@gmail.com",
+  "authorUrl": "https://erichizdepski.wordpress.com/",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": []
+}

@@ -12,5 +12,10 @@
   "sourceUrl": "",
   "donateUrl": "",
   "changelogUrl": "",
-  "modules": []
+  "modules": [{
+      "slug": "OptxCalibrator",
+      "name": "Optx Calibrator",
+      "description": "boredbrain Optx Calibrator module",
+      "tags": []
+    }]
 }

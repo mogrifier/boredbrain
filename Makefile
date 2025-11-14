@@ -21,3 +21,11 @@ DISTRIBUTABLES += $(wildcard presets)
 
 # Include the Rack plugin Makefile framework
 include $(RACK_DIR)/plugin.mk
+
+# Debug build
+debug: CXXFLAGS += -g -O0
+debug: all
+
+# Release build
+release: CXXFLAGS += -O2 -DNDEBUG
+release: all
